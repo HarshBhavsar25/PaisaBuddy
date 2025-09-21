@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dashboard-portfolio",
+      "description": "A dynamic stock market chart on a screen, representing the virtual portfolio feature.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=600&h=400&fit=crop",
+      "imageHint": "stock market"
+    },
+    {
+      "id": "dashboard-learn",
+      "description": "A person studying with a laptop and notebook, representing the learning modules.",
+      "imageUrl": "https://media.istockphoto.com/id/1395046095/photo/3d-notes-with-check-mark-completed-task-list-or-checklist-paper-document-or-report-with.jpg?s=612x612&w=0&k=20&c=0eZ08hvGi2w7dQui7Bux75tLx9uM1GcijTY_tM62b6A=",
+      "imageHint": "person studying"
+    },
+    {
+      "id": "dashboard-budget",
+      "description": "A person writing in a notebook next to a calculator and piggy bank, representing budgeting.",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1720091339077-d0f56397a0c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fGV4cGVuc2VzJTIwdHJhY2tlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "imageHint": "personal finance"
+    },
+    {
+      "id": "dashboard-fraud",
+      "description": "A padlock on a digital screen, symbolizing fraud protection and cybersecurity.",
+      "imageUrl": "https://media.istockphoto.com/id/2218954745/photo/scam-alert-warning-with-cybersecurity-icons-man-holding-smartphone-while-using-laptop-warning.webp?a=1&b=1&s=612x612&w=0&k=20&c=rPOhSLL51hbJAoYeYEkb65gHAQtcYCvyqmfearf3t3w=",
+      "imageHint": "cyber security"
+    }
+  ]
+}
