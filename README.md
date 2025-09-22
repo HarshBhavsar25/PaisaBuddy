@@ -1,7 +1,7 @@
 # Paisabuddy: Financial Literacy for Young India
 
 -------------------------------------------
-Link:- https://paisa-buddy-six.vercel.app/
+Link:- https://paisa-buddy-beta.vercel.app/
 -------------------------------------------
 
 1.Problem Statement
